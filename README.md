@@ -7,7 +7,8 @@
 Integrantes:
 
 - Lucas Vinícius Domingues 769699
-
+- 
+- Victor Luís Aguilar Antunes 769734
 
 
 
